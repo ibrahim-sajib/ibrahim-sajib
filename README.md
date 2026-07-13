@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=MD%20IBRAHIM%20SAJIB&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Researcher%20%7C%20Security%20Architect&descAlignY=58&descSize=17&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=MD%20IBRAHIM%20SAJIB&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=58&descSize=17&descColor=ffffff" />
 </div>
 
 <div align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+AI+Researcher;3.5%2B+Years+Building+Secure+Enterprise+Apps;Laravel+%7C+Vue.js+%7C+AWS+KMS+%7C+Docker;1500%2B+Competitive+Programming+Problems+Solved;Open+to+Remote+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Software+Engineer+%26+AI+Researcher;3.5%2B+Years+Building+Secure+Enterprise+Apps;Laravel+%7C+Vue.js+%7C+Docker;1500%2B+Competitive+Programming+Problems+Solved;Open+to+Remote+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
@@ -28,14 +28,14 @@
 
 ```ts
 const ibrahim = {
-  title:       "Software Engineer | AI Researcher | Cryptographic Security",
+  title:       "Software Engineer",
   location:    "Uttara, Dhaka, Bangladesh 🇧🇩  (Open to Remote)",
   experience:  "3.5+ years of shipping secure enterprise solutions & full-stack web apps",
   currentRole: "Software Engineer @ Softzino Technologies (Sept 2022 – Present)",
-  focus:       ["Enterprise Cryptography", "Scalable System Architecture", "Deep Learning"],
+  focus:       ["Scalable System Architecture"],
   superpower:  "Bridging complex algorithmic thinking with clean, robust production code",
   publications: ["ICCIT 2024 (Mango Species Classification using CNN)", "Bangla Next Word Prediction"],
-  openTo:      ["Full-Time Remote Roles 🚀", "International Collaborations", "AI & ML Research Integrations"],
+  openTo:      ["Full-Time Remote Roles 🚀", "International Collaborations"],
 };
 ```
 
@@ -203,7 +203,7 @@ Uttara University, Dhaka | *CGPA: 3.83 / 4.00 (Ranked 2nd in Cohort)*
 
 <br/>
 
-> **Open to remote opportunities worldwide.** I bring strong algorithmic problem-solving skills, deep cryptographic security experience, and a track record of publishing research in Deep Learning. If you're looking for a Software Engineer who can design both highly secure web applications and AI/ML integrations, let's talk.
+> **Open to remote opportunities worldwide.** I bring strong algorithmic problem-solving skills and deep security experience. If you're looking for a Software Engineer who can design secure web applications, let's talk.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=100&section=footer" />
