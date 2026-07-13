@@ -80,7 +80,6 @@ const ibrahim = {
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -179,7 +178,7 @@ Uttara University, Dhaka | *CGPA: 3.83 / 4.00 (Ranked 2nd in Cohort)*
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ibrahim-sajib&theme=tokyonight&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=4F46E5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=06B6D4&sideLabels=06B6D4&dates=888888" height="180" />
+  <img src="https://streak-stats.demolab.com?user=ibrahim-sajib&theme=tokyonight&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=4F46E5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=06B6D4&sideLabels=06B6D4&dates=888888" height="180" />
 </div>
 
 <div align="center">
