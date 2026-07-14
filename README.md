@@ -135,7 +135,7 @@ const ibrahim = {
     </td>
     <td width="50%">
       <h3>Bariplus (Real Estate Platform)</h3>
-      <p>Engineered permissions management, dynamic ad promotion mechanisms, content caching, and location services integrated via Google Maps API.</p>
+      <p>Engineered permissions management, dynamic ad promotion mechanisms, content caching, and location services integrated via Google API.</p>
       <p><b>Stack:</b> Laravel · Vue.js · Nuxt.js · MySQL · Google APIs</p>
     </td>
   </tr>
@@ -177,16 +177,7 @@ Uttara University, Dhaka | *CGPA: 3.83 / 4.00 (Ranked 2nd in Cohort)*
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-sajib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=4F46E5&text_color=ffffff&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-sajib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=ffffff&langs_count=8" height="180" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=ibrahim-sajib&theme=tokyonight&hide_border=true&background=0D1117&stroke=06B6D4&ring=06B6D4&fire=4F46E5&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=06B6D4&sideLabels=06B6D4&dates=888888" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ibrahim-sajib&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
 </div>
 
 ---
