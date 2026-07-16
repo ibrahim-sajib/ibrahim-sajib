@@ -169,7 +169,7 @@ const ibrahim = {
 ## 🎓 Education
 
 **B.Sc. in Computer Science and Engineering**  
-Uttara University, Dhaka | *CGPA: 3.83 / 4.00 (Ranked 2nd in Cohort)*  
+Uttara University, Dhaka | *CGPA: 3.83 / 4.00 (Ranked 2nd in Class)*  
 *Dean's Award Recipient (2019, 2020, 2021)*
 
 ---
